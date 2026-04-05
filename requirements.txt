@@ -1,8 +1,10 @@
 fastapi
 uvicorn
-google-adk
+google-adk[extensions]
 python-dotenv
 sqlalchemy
 google-cloud-alloydb-connector
 pg8000
 pydantic>=2.0.0
+google-cloud-aiplatform
+litellm
